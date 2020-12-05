@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ttable-app/static/css/main.47e8752a.chunk.css",
-    "main.js": "/ttable-app/static/js/main.ab74865c.chunk.js",
-    "main.js.map": "/ttable-app/static/js/main.ab74865c.chunk.js.map",
+    "main.js": "/ttable-app/static/js/main.712a6d80.chunk.js",
+    "main.js.map": "/ttable-app/static/js/main.712a6d80.chunk.js.map",
     "runtime-main.js": "/ttable-app/static/js/runtime-main.67a832ed.js",
     "runtime-main.js.map": "/ttable-app/static/js/runtime-main.67a832ed.js.map",
     "static/css/2.4ee2f7a8.chunk.css": "/ttable-app/static/css/2.4ee2f7a8.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.4ee2f7a8.chunk.css",
     "static/js/2.1d82fc79.chunk.js",
     "static/css/main.47e8752a.chunk.css",
-    "static/js/main.ab74865c.chunk.js"
+    "static/js/main.712a6d80.chunk.js"
   ]
 }
