@@ -1,5 +1,3 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/marcusliljehammar/]
-
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -9,7 +7,7 @@
   <h3 align="center">Råcksta T-Table-App</h3>
 
   <p align="center">
-    An SPA Real time Dashboard of Råcksta subway station with arrivals and departures using Trafik Labs open API
+    An SPA Real time Dashboard of Råcksta subway station with<br/> arrivals and departures using Trafik Labs open API
     <br />
   </p>
 </p>
