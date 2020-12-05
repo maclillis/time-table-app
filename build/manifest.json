@@ -1,0 +1,8 @@
+{
+  "short_name": "Time Table App",
+  "name": "Real Time Table for Råcksta Subway Station",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fce46b",
+  "background_color": "#343434"
+}

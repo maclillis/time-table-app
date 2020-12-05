@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ttable-app/static/css/main.47e8752a.chunk.css",
+    "main.js": "/ttable-app/static/js/main.ab74865c.chunk.js",
+    "main.js.map": "/ttable-app/static/js/main.ab74865c.chunk.js.map",
+    "runtime-main.js": "/ttable-app/static/js/runtime-main.67a832ed.js",
+    "runtime-main.js.map": "/ttable-app/static/js/runtime-main.67a832ed.js.map",
+    "static/css/2.4ee2f7a8.chunk.css": "/ttable-app/static/css/2.4ee2f7a8.chunk.css",
+    "static/js/2.1d82fc79.chunk.js": "/ttable-app/static/js/2.1d82fc79.chunk.js",
+    "static/js/2.1d82fc79.chunk.js.map": "/ttable-app/static/js/2.1d82fc79.chunk.js.map",
+    "static/js/3.cda721b0.chunk.js": "/ttable-app/static/js/3.cda721b0.chunk.js",
+    "static/js/3.cda721b0.chunk.js.map": "/ttable-app/static/js/3.cda721b0.chunk.js.map",
+    "index.html": "/ttable-app/index.html",
+    "static/css/2.4ee2f7a8.chunk.css.map": "/ttable-app/static/css/2.4ee2f7a8.chunk.css.map",
+    "static/css/main.47e8752a.chunk.css.map": "/ttable-app/static/css/main.47e8752a.chunk.css.map",
+    "static/js/2.1d82fc79.chunk.js.LICENSE.txt": "/ttable-app/static/js/2.1d82fc79.chunk.js.LICENSE.txt",
+    "static/media/Dashboard.scss": "/ttable-app/static/media/z-icon.0c2766ca.svg",
+    "static/media/App.scss": "/ttable-app/static/media/drive-gothic-regular.c1090b2d.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67a832ed.js",
+    "static/css/2.4ee2f7a8.chunk.css",
+    "static/js/2.1d82fc79.chunk.js",
+    "static/css/main.47e8752a.chunk.css",
+    "static/js/main.ab74865c.chunk.js"
+  ]
+}

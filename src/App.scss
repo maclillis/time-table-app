@@ -1,0 +1,74 @@
+@import 'scss/_type.scss';
+@import 'scss/_color.scss';
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: $driveGothicBold;
+  color: $ttable-white;
+  background-color: $ttable-bg;
+  overflow: hidden;
+}
+
+h1, h2, h3, h4 h5 {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 80px;
+
+  @media (min-width: 900px) {
+    font-size: 83px;
+  }
+}
+
+h2 {
+  font-size: 23px;
+
+  @media (min-width: 900px) {
+    font-size: 26px;
+  }
+}
+
+h3 {
+  font-size: 26px;
+  color: $ttable-yellow;
+
+  @media (min-width: 900px) {
+    font-size: 23px;
+  }
+}
+
+h4 {
+  font-size: 24px;
+  color: $ttable-yellow;
+
+  @media (min-width: 900px) {
+    font-size: 21px;
+  }
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+#root {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+
+  .ttable-app-wrapper {
+    width: 100%;
+    height: auto;
+    background-color: $ttable-bg;
+    display: flex;
+    align-self: stretch;
+  }
+}
