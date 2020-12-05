@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/marcusliljehammar/]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://user-images.githubusercontent.com/13959025/101261155-67406580-3735-11eb-8068-74ebe12c5353.png" alt="Logo" width="80" height="80">
+  </a>
 
-## Available Scripts
+  <h3 align="center">Råcksta T-Table-App</h3>
 
-In the project directory, you can run:
+  <p align="center">
+    An SPA Real time Dashboard of Råcksta subway station with arrivals and departures using Trafik Labs open API
+    <br />
+  </p>
+</p>
 
-### `npm start`
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img width="803" alt="Råcksta T-Table App" src="https://user-images.githubusercontent.com/13959025/101261786-08311f80-373a-11eb-9520-bf92ff77d6e4.png">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+### The Back story
+So everythings stared with me continuing running late to the subway every morning. On top of that, the official SL App has a UX/UI-design from hell so to actually get the current time table for Råcksta Subway station takes about as long as it takes walk to the plattform... I just don't have that kind of time. Knowing that there is an open API from Trafik Lab with all of the Subway arrivals/departues that exist I though it would be good time to actually make an app of my own, with a design that need. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+It took me about 3 weeks from the starting on the mockup to actually get a stable version out, much thanks to alot of studying and problem solving and here we are. 
 
-### `npm run build`
+### Built With
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The backbone of the app is developed in ReactJS and the wonderful "Create-A-An-App"-package with some fetching help from AXIOS, I have also used GSAP for the minor animations and icons from Font Awesome. In order to make life a bit easier while working with JavaScript objects, I have also worked a bit with ._lodash. SASS for preprocessing CSS and Flexbox with Flexbox Grid for layout stability.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* [React](https://reactjs.org/)
+* [GreensockJS](https://greensock.com)
+* [Axios](https://www.npmjs.com/package/axios)
+* [._lodash](https://lodash.com)
+* [Flexbox Grid](https://flexboxgrid.com)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- LICENSE -->
+## Usage
 
-### `npm run eject`
+You are free to fork, share and devour this project as much as you want. I believe in sharing for the masses but in order for this project to work you have to create your own API key at Trafik Lab, create an .env file and insert the key there. Links below.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* [Trafik Lab open API](https://www.trafiklab.se/)
+* [Work with API Keys in React](https://dev.to/thepuskar/how-to-hide-your-api-keys-in-react-4k55)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## FAQ
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Q:** Will this be publicy released on App Store or Google Play?
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**A:** No. This was purely for fun and a test challenge myself. Also, I was bored okay?
 
-## Learn More
+**Q:** Any plans to add an options menu where you can add the station closest to you?
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**A:** Maybe, maybe not. The challenge is intriguing but the time? Not so much.
